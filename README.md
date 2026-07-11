@@ -127,18 +127,8 @@ This allows users to keep track of previous strategy performance and executed tr
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```
-assets/dashboard.png
-```
-
-Then use:
-
 ```markdown
-![Dashboard](assets/dashboard.png)
+"C:\Users\lalit\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 152936.png"
 ```
 
 ---
