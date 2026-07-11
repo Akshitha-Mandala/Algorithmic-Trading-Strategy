@@ -128,7 +128,7 @@ This allows users to keep track of previous strategy performance and executed tr
 ## 📸 Dashboard Preview
 
 ```markdown
-"C:\Users\lalit\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 152936.png"
+https://drive.google.com/drive/folders/1NwvEkdrsVyyMTlu2yhHS8z3u_SpD0WtB?usp=drive_link
 ```
 
 ---
