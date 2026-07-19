@@ -1,1 +1,108 @@
-
+﻿name,ticker,market,sector
+Reliance Industries,RELIANCE.NS,India,Energy
+TCS,TCS.NS,India,Technology
+Infosys,INFY.NS,India,Technology
+HCL Technologies,HCLTECH.NS,India,Technology
+Wipro,WIPRO.NS,India,Technology
+Tech Mahindra,TECHM.NS,India,Technology
+LTIMindtree,LTIM.NS,India,Technology
+Persistent Systems,PERSISTENT.NS,India,Technology
+HDFC Bank,HDFCBANK.NS,India,Banking
+ICICI Bank,ICICIBANK.NS,India,Banking
+State Bank of India,SBIN.NS,India,Banking
+Axis Bank,AXISBANK.NS,India,Banking
+Kotak Mahindra Bank,KOTAKBANK.NS,India,Banking
+Federal Bank,FEDERALBNK.NS,India,Banking
+Bank of Baroda,BANKBARODA.NS,India,Banking
+Canara Bank,CANBK.NS,India,Banking
+Punjab National Bank,PNB.NS,India,Banking
+IndusInd Bank,INDUSINDBK.NS,India,Banking
+IDFC First Bank,IDFCFIRSTB.NS,India,Banking
+AU Small Finance Bank,AUBANK.NS,India,Banking
+Yes Bank,YESBANK.NS,India,Banking
+Bandhan Bank,BANDHANBNK.NS,India,Banking
+ITC,ITC.NS,India,FMCG
+Hindustan Unilever,HINDUNILVR.NS,India,FMCG
+Nestle India,NESTLEIND.NS,India,FMCG
+Britannia,BRITANNIA.NS,India,FMCG
+Dabur,DABUR.NS,India,FMCG
+Godrej Consumer,GODREJCP.NS,India,FMCG
+Marico,MARICO.NS,India,FMCG
+Tata Consumer,TATACONSUM.NS,India,FMCG
+Bharti Airtel,BHARTIARTL.NS,India,Telecom
+Vodafone Idea,IDEA.NS,India,Telecom
+Sun Pharma,SUNPHARMA.NS,India,Healthcare
+Dr Reddy's Laboratories,DRREDDY.NS,India,Healthcare
+Cipla,CIPLA.NS,India,Healthcare
+Divi's Laboratories,DIVISLAB.NS,India,Healthcare
+Apollo Hospitals,APOLLOHOSP.NS,India,Healthcare
+Lupin,LUPIN.NS,India,Healthcare
+Aurobindo Pharma,AUROPHARMA.NS,India,Healthcare
+Tata Motors,TATAMOTORS.NS,India,Automobile
+Mahindra & Mahindra,M&M.NS,India,Automobile
+Maruti Suzuki,MARUTI.NS,India,Automobile
+Bajaj Auto,BAJAJ-AUTO.NS,India,Automobile
+Hero MotoCorp,HEROMOTOCO.NS,India,Automobile
+Eicher Motors,EICHERMOT.NS,India,Automobile
+Ashok Leyland,ASHOKLEY.NS,India,Automobile
+Larsen & Toubro,LT.NS,India,Infrastructure
+UltraTech Cement,ULTRACEMCO.NS,India,Cement
+Grasim Industries,GRASIM.NS,India,Cement
+ACC,ACC.NS,India,Cement
+Ambuja Cements,AMBUJACEM.NS,India,Cement
+Adani Ports,ADANIPORTS.NS,India,Infrastructure
+Adani Enterprises,ADANIENT.NS,India,Conglomerate
+NTPC,NTPC.NS,India,Power
+Power Grid,POWERGRID.NS,India,Power
+Coal India,COALINDIA.NS,India,Mining
+Oil & Natural Gas Corp,ONGC.NS,India,Energy
+Bharat Petroleum,BPCL.NS,India,Energy
+Indian Oil,IOC.NS,India,Energy
+Apple,AAPL,USA,Technology
+Microsoft,MSFT,USA,Technology
+NVIDIA,NVDA,USA,Technology
+Amazon,AMZN,USA,E-Commerce
+Alphabet Class A,GOOGL,USA,Technology
+Meta Platforms,META,USA,Technology
+Tesla,TSLA,USA,Automobile
+Netflix,NFLX,USA,Entertainment
+AMD,AMD,USA,Technology
+Intel,INTC,USA,Technology
+Broadcom,AVGO,USA,Technology
+Oracle,ORCL,USA,Technology
+Cisco Systems,CSCO,USA,Technology
+Adobe,ADBE,USA,Technology
+Salesforce,CRM,USA,Technology
+Qualcomm,QCOM,USA,Technology
+Palantir,PLTR,USA,Technology
+IBM,IBM,USA,Technology
+JPMorgan Chase,JPM,USA,Banking
+Bank of America,BAC,USA,Banking
+Wells Fargo,WFC,USA,Banking
+Goldman Sachs,GS,USA,Banking
+Morgan Stanley,MS,USA,Banking
+Citigroup,C,USA,Banking
+Visa,V,USA,Finance
+Mastercard,MA,USA,Finance
+PayPal,PYPL,USA,Finance
+American Express,AXP,USA,Finance
+Berkshire Hathaway,BRK-B,USA,Finance
+Coca-Cola,KO,USA,FMCG
+PepsiCo,PEP,USA,FMCG
+Procter & Gamble,PG,USA,FMCG
+Walmart,WMT,USA,Retail
+Costco,COST,USA,Retail
+McDonald's,MCD,USA,Restaurant
+Starbucks,SBUX,USA,Restaurant
+Nike,NKE,USA,Apparel
+Disney,DIS,USA,Entertainment
+Boeing,BA,USA,Aerospace
+Lockheed Martin,LMT,USA,Defense
+Pfizer,PFE,USA,Healthcare
+Johnson & Johnson,JNJ,USA,Healthcare
+AbbVie,ABBV,USA,Healthcare
+Merck,MRK,USA,Healthcare
+UnitedHealth,UNH,USA,Healthcare
+Exxon Mobil,XOM,USA,Energy
+Chevron,CVX,USA,Energy
+ConocoPhillips,COP,USA,Energy
